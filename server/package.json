@@ -1,0 +1,7 @@
+{
+  "name": "nico-minato-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicolas Rodriguez",
+  "license": "MIT"
+}
